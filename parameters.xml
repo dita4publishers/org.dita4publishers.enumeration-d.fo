@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<params>
+<!--
+    Parameters for D4P enumerator support.
+-->
+    <param name="d4p.enumerator.showEnumerators" expression="${d4p.enumerator.showEnumerators}"/>
+
+</params>
