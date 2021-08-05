@@ -5,7 +5,7 @@
      Copyright (c) 2010 W. DITA 4 Publishers
      
      =========================================================== -->
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:fo="http://www.w3.org/1999/XSL/Format"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:d4p="http://www.dita4publishers.org"
